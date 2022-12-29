@@ -1,9 +1,10 @@
 import React from 'react'
+import Card from './components/Card'
 
 const App = () => {
     return (
       <div>
-        APpp
+          <Card width='200px' height='200px'/>
       </div>
     )
 }
