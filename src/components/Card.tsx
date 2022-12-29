@@ -1,7 +1,7 @@
 import React from 'react'
 
 interface CardProps {
-    width: string;
+    width?: string;
     height: string;
 }
 
